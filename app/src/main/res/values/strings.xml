@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RetoSophos</string>
+
+    <string-array name="tipo_doc">
+        <item>CC</item>
+        <item>TI</item>
+        <item>CE</item>
+        <item>PA</item>
+
+    </string-array>
+
+    <string-array name="ciudad">
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Panama</item>
+        <item>Estados Unidos</item>
+        <item>Chile</item>
+        <item>Mexico</item>
+
+
+    </string-array>
+
+
+    <string-array name="tipo_adjunto">
+        <item>Certificado de cuenta</item>
+        <item>Cedula</item>
+        <item>Factura</item>
+        <item>Incapacidad</item>
+
+
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_maps_oficinas">Oficinas</string>
+
+
+</resources>
